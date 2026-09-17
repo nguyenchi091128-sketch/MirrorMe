@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Hình Ảnh Cơ Thể & Lòng Tự Trọng THPT",
+  "description": "Cẩm nang khoa học số về bất mãn hình ảnh cơ thể, trải nghiệm bị bình phẩm ngoại hình và xây dựng lòng tự trọng học sinh THPT Cụm 1 TP.HCM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
